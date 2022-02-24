@@ -27,7 +27,7 @@ public class Gui {
     frame.setResizable(false);
 
         frame.setDefaultCloseOperation((JFrame.DISPOSE_ON_CLOSE));
-        
+
     panel.add(name);
         panel.add(email);
         panel.add(phoneNumber);
